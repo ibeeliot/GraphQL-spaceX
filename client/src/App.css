@@ -1,0 +1,14 @@
+/* START: CROPPING THE SPACEX LOGO TO KEEP IT FULLY LINKED TO A URL */
+.image-container {
+	height: 150px;
+	width: 150px;
+	/* overflow: hidden; */
+}
+
+#logo-image {
+	height: 100px;
+	width: auto;
+	margin: -10px 0px 0px -120px;
+}
+
+/* END: CROPPING THE SPACEX LOGO */
